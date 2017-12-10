@@ -1,0 +1,6 @@
+Tammy Nguyen
+Unit 11
+Problem 1
+
+
+Node.js is a Javascript framework/platform that that runs on Chrome. It is a JavaScript runtime and is another way to run code on your computer. It is a framework for writing custom servers. Node.js is asynchronous, making it very fast in execution. There is no buffering and is used by a lot of big name projects such as Paypal, Uber, Ebay, etc. 
